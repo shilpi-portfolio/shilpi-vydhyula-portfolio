@@ -38,7 +38,7 @@ const Hero = () => {
               <div className="w-64 h-64 md:w-80 md:h-80 rounded-full bg-gradient-to-br from-theme-purple to-theme-light-purple opacity-20 absolute -z-10 blur-2xl"></div>
               <div className="w-64 h-64 md:w-80 md:h-80 rounded-full border-2 border-theme-purple overflow-hidden">
                 <img
-                  src="https://images.unsplash.com/photo-1581091226825-a6a2a5aee158?auto=format&fit=crop&w=600"
+                  src="/images/Shilpi.jpg"
                   alt="Shilpi Vydhyula"
                   className="w-full h-full object-cover"
                 />
