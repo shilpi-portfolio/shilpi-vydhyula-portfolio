@@ -35,7 +35,7 @@ const Projects = () => {
       image: "https://images.unsplash.com/photo-1527295110-5145f6b148d0?q=80&w=2031&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
     },
     {
-      title: "Universities and Collages Search Mobile App",
+      title: "Universities and Colleges Search Mobile App",
       technologies: ["React Native", "Android Studio", "Node.js", "Auth0", "PostgreSQL"],
       description: [
         "Developed a mobile app for searching schools and colleges based on various filters.",
