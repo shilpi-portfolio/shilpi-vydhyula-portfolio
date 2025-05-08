@@ -32,14 +32,16 @@ const Contact = () => {
                       <span>+91-7799640002</span>
                     </a>
                     
-                    <a href="https://www.linkedin.com/in/shilpi-vydhyula" target="_blank" rel="noreferrer" className="flex items-center gap-3 text-gray-700 hover:text-theme-purple transition-colors">
+                    {/* <a href="https://in.linkedin.com/in/shilpi-vydhyula?trk=profile-badge" target="_blank" rel="noreferrer" className="flex items-center gap-3 text-gray-700 hover:text-theme-purple transition-colors">
                       <div className="p-3 rounded-full bg-theme-purple/10 text-theme-purple">
                         <Linkedin size={20} />
                       </div>
                       <span>linkedin.com/in/shilpi-vydhyula</span>
-                    </a>
+                    </a> */}
+                    <div className="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="dark" data-type="VERTICAL" data-vanity="shilpi-vydhyula" data-version="v1"><a className="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/shilpi-vydhyula?trk=profile-badge"></a></div>
+
                   </div>
-                  
+              
                   <div className="mt-8">
                     <Button asChild className="w-full">
                       <a href="mailto:shilpivydhyula3116@gmail.com">
