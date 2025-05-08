@@ -13,7 +13,7 @@ const Projects = () => {
         "Designed a scalable and responsive UI using Next.js.",
         "Implemented backend APIs in Node.js with PostgreSQL, AWS - Amazon RDS, S3 and CloudFront."
       ],
-      image: "https://images.unsplash.com/photo-1488590528505-98d2b5aba04b?auto=format&fit=crop&w=600"
+      image: "https://images.unsplash.com/photo-1588702547954-4800ead296ef?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
     },
     {
       title: "Cargo Revenue Optimization (Air Cargo)",
@@ -23,7 +23,7 @@ const Projects = () => {
         "Built React.js and Ext JS UIs, enhancing booking and optimization workflows.",
         "Developed backend services with Spring Boot and Oracle SQL for dynamic pricing and demand forecasting."
       ],
-      image: "https://images.unsplash.com/photo-1498050108023-c5249f4df085?auto=format&fit=crop&w=600"
+      image: "https://images.unsplash.com/photo-1571086291540-b137111fa1c7?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
     },
     {
       title: "Rail Revenue Optimizer (Passenger Rails)",
@@ -32,17 +32,17 @@ const Projects = () => {
         "Designed and implemented pricing and demand management UIs for passenger rail systems.",
         "Developed backend logic in Spring Boot for real-time demand tracking and ticket revenue optimization."
       ],
-      image: "https://images.unsplash.com/photo-1649972904349-6e44c42644a7?auto=format&fit=crop&w=600"
+      image: "https://images.unsplash.com/photo-1527295110-5145f6b148d0?q=80&w=2031&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
     },
     {
-      title: "Education Search Mobile App",
+      title: "Universities and Collages Search Mobile App",
       technologies: ["React Native", "Android Studio", "Node.js", "Auth0", "PostgreSQL"],
       description: [
         "Developed a mobile app for searching schools and colleges based on various filters.",
         "Implemented secure authentication using Auth0.",
         "Built backend APIs with Node.js and PostgreSQL for real-time search and user profile management."
       ],
-      image: "https://images.unsplash.com/photo-1483058712412-4245e9b90334?auto=format&fit=crop&w=600"
+      image: "https://images.unsplash.com/photo-1695204651916-a300caba0d7e?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
     }
   ];
 
